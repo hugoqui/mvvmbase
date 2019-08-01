@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E8EF65D1-B403-42E1-B403-E7542D46BF9C}|Default">
+  <MonoDevelop.Ide.ItemProperties.mvvmbase.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.mvvmbase FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mvvmbase/MainPage.xaml">
+    <Files>
+      <File FileName="mvvmbase/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="mvvmbase/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mvvmbase" expanded="True">
+            <Node name="mvvmbase" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mvvmbase.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
